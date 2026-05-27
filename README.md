@@ -5,4 +5,4 @@ This script will read the song title from the music file `title` and `tracknumbe
 
 Set the path to your USB directory at the bottom of the script.
 
-## Do not run this on your original music files. It is destructive to the metadata.
+## Do not run this on your original music files. It is destructive to the metadata!
